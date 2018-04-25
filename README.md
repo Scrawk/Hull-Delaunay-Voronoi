@@ -8,7 +8,7 @@ The 3 concepts of Hull, Delaunay and Voronoi or all related. If you have a Conve
 
 The code to calculate the convex hull may throw a exception. For example if a 2D hull tries to process a line that has two vertices in the same position or a 3D hull tries to process a triangle where all the points are co-planar (they form a line). These can not be processed so will result in a error. Randomizing the vertices order or adding a small amount of noise to the positions can solve this.
 
-See [home page](https://www.digital-dust.com/single-post/2017/04/01/Hull-Delaunay-and-Voronoi-in-Unity) for more information and unity package download.
+You can download a Unity package [here](https://app.box.com/s/7427ychbep6ck32xqveslo1qgi4hwvq3).
 
 A Convex Hull from 2D points.
 
