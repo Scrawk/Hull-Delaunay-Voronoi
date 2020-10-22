@@ -27,4 +27,4 @@ A Voronoi diagram from 2D points.
 
 A Voronoi diagram from 3D points.
 
-![3D Voronoi diagram](./Media/HullDelaunayVoronoi5.jpg
+![3D Voronoi diagram](./Media/HullDelaunayVoronoi5.jpg)
