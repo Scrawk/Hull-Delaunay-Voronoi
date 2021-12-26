@@ -19,7 +19,7 @@ A Convex Hull from 3D points.
 
 A Delaunay triangulation from 2D points.
 
-![2D Delaunay triangulation](./Media/HullDelaunayVoronoi3.jpg
+![2D Delaunay triangulation](./Media/HullDelaunayVoronoi3.jpg)
 
 A Voronoi diagram from 2D points.
 
