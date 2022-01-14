@@ -8,6 +8,8 @@ The 3 concepts of Hull, Delaunay and Voronoi or all related. If you have a Conve
 
 The code to calculate the convex hull may throw a exception. For example if a 2D hull tries to process a line that has two vertices in the same position or a 3D hull tries to process a triangle where all the points are co-planar (they form a line). These can not be processed so will result in a error. Randomizing the vertices order or adding a small amount of noise to the positions can solve this.
 
+If you are interested in computational geometry of other triangulation algorithms you might what to ceck the [CGALDotNet](https://github.com/Scrawk/CGALDotNet) project out.
+
 
 A Convex Hull from 2D points.
 
